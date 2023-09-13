@@ -1,6 +1,6 @@
 ################################## RESEARCH QUESTIONS
 
-We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
+#We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
 
 #1. Total Revenue.
 #2. Average Order Value
@@ -8,7 +8,7 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 #4. Total Orders
 #5. Average Pizzas Per Order
 
-We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
+#We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
     
 #6. Hourly Trend for Total Pizzas Sold: This chart will help us identify any patterns or fluctuations in order volumes on a hourly basis.
 #7. Weekly Trend for Total Orders: This chart will allow us to identify peak weeks or periods of high order activity.
