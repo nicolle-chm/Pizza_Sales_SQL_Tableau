@@ -5,4 +5,4 @@ I undertook a comprehensive data management and analysis project utilizing SQL. 
 With a commitment to presenting data-driven insights in a visually engaging manner, I leveraged this analyzed data to create an interactive and visually intuitive Tableau Dashboard. This dashboard not only serves as a testament to my data analysis skills but also provides a clear and insightful representation of the findings, facilitating informed decision-making and strategic planning.
 SQL and Tableau Project to analyse the Sales of a Pizza business
 
-Tableu Dashboard (here)[https://public.tableau.com/app/profile/nicolle.maritza.chuquilin/viz/PizzaSalesReport_16945589511160/Home]
+Tableu Dashboard [here](https://public.tableau.com/app/profile/nicolle.maritza.chuquilin/viz/PizzaSalesReport_16945589511160/Home)
